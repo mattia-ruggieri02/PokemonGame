@@ -1,5 +1,5 @@
 # PokemonGame
-Progetto universitario sviluppato in Java per l'esame di Programmazione e modellazione ad oggetti. Si tratta di un gioco ispirato ai famosi titoli Pokèmon.
+Progetto universitario sviluppato in Java per l'esame di Programmazione e modellazione ad oggetti. Si tratta di un gioco ispirato ai famosi titoli Pokèmon. \n
 Passaggi per avviarlo:
 -Installa Visual Studio Code dal seguente link: https://code.visualstudio.com/ (o qualsiasi altro IDE Java)
    
